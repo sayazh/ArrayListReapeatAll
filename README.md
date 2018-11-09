@@ -1,6 +1,12 @@
 # ArrayListReapeatAll
 ArrayListReapeatAll
-public static void main(String[] args)
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ArrayListReapeatAll {
+	
+		public static void main(String[] args)
 		{
 			ArrayList<Boolean> list=new ArrayList<Boolean>();
 			list.add(true);
